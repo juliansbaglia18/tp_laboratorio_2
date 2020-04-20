@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.exe.config
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.exe
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.pdb
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.Form1.resources
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.Properties.Resources.resources
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.exe
+C:\Users\usuario\source\repos\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.pdb
